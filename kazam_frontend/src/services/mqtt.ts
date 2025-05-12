@@ -1,7 +1,7 @@
 import mqtt from "mqtt";
 
 const MQTT_BROKER_URL = "wss://broker.hivemq.com:8884/mqtt";
-const MQTT_TOPIC = "/post";
+const MQTT_TOPIC = "/get";
 
 let client: mqtt.MqttClient | null = null;
 

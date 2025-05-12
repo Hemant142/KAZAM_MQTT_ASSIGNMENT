@@ -1,9 +1,5 @@
 import axios from "axios";
-
-//const API_BASE_URL = 'https://kazam-backend-i2rk.onrender.com';
-const API_BASE_URL = "http://localhost:8080/tasks";
-// const API_BASE_URL = 'https://kazam-assignment-rl20.onrender.com';
-
+const API_BASE_URL = "https://kazam-mqtt-api.vercel.app/tasks";
 export const fetchAllTasks = async (): Promise<string[]> => {
   try {
     const response = await axios.get(`${API_BASE_URL}/getAllTasks`);
