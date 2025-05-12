@@ -35,7 +35,7 @@ It includes a fully responsive frontend built with **React** and **Tailwind CSS*
 - **Database**: Redis (for caching), MongoDB Atlas (for storage)
 - **Deployment**: Render.com (Backend), Vercel (Frontend)
 
-## Installation
+## Installation KAZAM_MQTT_ASSIGNMENT
 
 To run this project locally, follow these steps:
 
@@ -94,6 +94,63 @@ To run this project locally, follow these steps:
    cd ../kazam_frontend
    npm run dev
    ```
+
+
+## Installation KAZAM ASSIGNMENT USING WEBSOCKET
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Hemant142/Kazam
+   ```
+
+2. **Navigate to the project directory**
+
+   ```bash
+   cd kazamfrontend
+   ```
+3. **Install backend dependencies**
+
+   ```bash
+   cd kazamBackend
+   npm install
+   ```
+
+4. **Install frontend dependencies**
+
+   ```bash
+   cd ../kazamfrontend
+   npm install
+   ```
+
+5. **Set up environment variables**  
+   Create a `.env` file inside the `kazamBackend` folder:
+
+   ```plaintext
+   PORT=3000
+  REDIS_HOST=your_redis_host
+   REDIS_PORT=your_redis_port
+   REDIS_USERNAME=default
+   REDIS_PASSWORD=your_redis_password
+   MONGO_URL=your_mongo_db_url
+   REDIS_KEY=FULLSTACK_TASK_HEMANT
+   ```
+
+6. **Run the backend server**
+
+   ```bash
+   cd kazamBackend
+   npm run server
+   ```
+
+7. **Run the frontend application**
+   ```bash
+   cd ../kazamfrontend
+   npm run dev
+   ```
+
 
 ## Usage
 
