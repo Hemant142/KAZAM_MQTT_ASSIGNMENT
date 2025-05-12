@@ -114,7 +114,7 @@ Homepage
 [![laptop.png](https://i.postimg.cc/nz36xwPp/laptop.png)](https://postimg.cc/dkTWmnFx)
 Mobile Responsive View
 
-([![mobile.png](https://i.postimg.cc/qvBMX9Hx/mobile.png)](https://postimg.cc/WhKvsY3d))
+[![mobile.png](https://i.postimg.cc/qvBMX9Hx/mobile.png)](https://postimg.cc/WhKvsY3d)
 
 ## Contributing
 
