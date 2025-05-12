@@ -111,10 +111,10 @@ Once the application is running:
 ## Screenshots
 
 Homepage
-[![laptop.png](https://i.postimg.cc/qMk89fS0/laptop.png)](https://postimg.cc/dDxkyfJS)
+[![laptop.png](https://i.postimg.cc/nz36xwPp/laptop.png)](https://postimg.cc/dkTWmnFx)
 Mobile Responsive View
 
-[![mobile.png](https://i.postimg.cc/FHNnWngJ/mobile.png)](https://postimg.cc/LnQThDWH)
+([![mobile.png](https://i.postimg.cc/qvBMX9Hx/mobile.png)](https://postimg.cc/WhKvsY3d))
 
 ## Contributing
 
