@@ -130,7 +130,7 @@ To run this project locally, follow these steps:
 
    ```plaintext
    PORT=3000
-  REDIS_HOST=your_redis_host
+   REDIS_HOST=your_redis_host
    REDIS_PORT=your_redis_port
    REDIS_USERNAME=default
    REDIS_PASSWORD=your_redis_password
