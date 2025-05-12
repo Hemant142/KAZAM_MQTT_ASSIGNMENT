@@ -69,25 +69,16 @@ To run this project locally, follow these steps:
    Create a `.env` file inside the `kazama_backend` folder:
 
    ```plaintext
-# Server Configuration
-PORT=8080
-
-# Redis Configuration
-REDIS_HOST=your_redis_host
-REDIS_PORT=your_redis_port
-REDIS_USERNAME=default
-REDIS_PASSWORD=your_redis_password
-
-# MongoDB Configuration
-MONGODB_URI=your_mongodb_connection_uri
-DATABASE=your_databse_name
-COLLECTION=your_collection_name
-
-# Redis Cache Key
-CACHE_KEY=your_chache_key
-
-# MQTT Configuration
-MQTT_BROKER_URL=mqtt://your_mqtt_broker_url
+   PORT=8080
+   REDIS_HOST=your_redis_host
+   REDIS_PORT=your_redis_port
+   REDIS_USERNAME=default
+   REDIS_PASSWORD=your_redis_password
+   MONGO_URL=your_mongo_db_url
+   DATABASE=your_databse_name
+   COLLECTION=your_collection_name
+   CACHE_KEY=your_chache_key
+   MQTT_BROKER_URL=mqtt://your_mqtt_broker_url
 
    ```
 
